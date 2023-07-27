@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🫀
 
-<!--
-**hendony/hendony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Hendony
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
+-Estou me desenvolvendo na Linguagem JavaScript
+-Utilizo esse espaço para minha oeganização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo 📫
+
+hendony.bressan@escola.pr.gov.br
+
+@_bressan.07
+
+![](https://media.tenor.com/TM0Xkja0docAAAAi/cr7-si.gif)
